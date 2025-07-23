@@ -41,17 +41,15 @@ I'm currently diving into ethical hacking, Red Teaming tactics, and real-world a
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhilash-n-379067312">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/p/abhi0473u">
-    <img src="https://img.shields.io/badge/-TryHackMe-red?logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/__k__i__n__g__04_">
-    <img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/abhilash-n-379067312">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+</a>
+<a href="https://tryhackme.com/p/abhi0473u">
+  <img src="https://img.shields.io/badge/-TryHackMe-red?logo=tryhackme&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/__k__i__n__g__04_">
+  <img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white" />
+</a>
 ---
 
 🔒 _“Hack ethically, learn endlessly, and defend passionately.”_
