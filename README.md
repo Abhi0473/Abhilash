@@ -52,4 +52,7 @@ I'm currently diving into ethical hacking, Red Teaming tactics, and real-world a
 </a>
 ---
 
+
+
+---
 🔒 _“Hack ethically, learn endlessly, and defend passionately.”_
